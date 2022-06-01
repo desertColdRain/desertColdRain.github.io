@@ -1,5 +1,12 @@
 ​	
 
+```text
+---
+layout: post
+title: Blogging Like a Hacker
+---
+```
+
 # Leetcode notes
 
 ## 1. 两数之和
