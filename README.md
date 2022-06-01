@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## jekyll-theme-H2O
+=======
+# desert's personal blog
+>>>>>>> 20417c7d287ae8360d5aae9f9479ff45519adcf4
 
 基于Jekyll的博客主题模板，简洁轻量。
 
