@@ -1,15 +1,11 @@
-_ _ _
-
+---
 layout: post
-title: 'ReentranLock部分源码分析'
+title: 'Reentrantlock原理分析一'
 date: 2022-06-01
-author: desert
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: reentrantLock
-
-_ _ _
-
-
+categories: 技术
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+tags: 源码 reentranlock
+---
 
 ### 1. 加锁，也就是lock（）方法
 
