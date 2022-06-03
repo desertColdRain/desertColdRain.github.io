@@ -1,9 +1,9 @@
 ---
 layout: post
-titile: concurrentHashmap原理分析
+titile: ConcurrentHashmap原理分析
 tags: ConcurrentHashMap
 ---
-# concurrentHashmap原理分析
+# ConcurrentHashmap原理分析
 ## 1. 重要属性和内部类
 
 ```Java
@@ -181,6 +181,8 @@ final V putVal(K key, V value, boolean onlyIfAbsent) {
         addCount(1L, binCount);
         return null;
 }
+```
+```java
 private final Node<K,V>[] initTable() {
         Node<K,V>[] tab; int sc;
         while ((tab = table) == null || tab.length == 0) {
@@ -204,6 +206,8 @@ private final Node<K,V>[] initTable() {
         }
         return tab;
 }
+```
+```java
 // check 是之前 binCount 的个数
 // check 是之前 binCount 的个数
 private final void addCount(long x, int check) {
