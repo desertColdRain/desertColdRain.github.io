@@ -1,30 +1,21 @@
 <<<<<<< HEAD
-## jekyll-theme-H2O
+## 瀚海冷雨个人博客
 =======
 # desert's personal blog
 >>>>>>> 20417c7d287ae8360d5aae9f9479ff45519adcf4
 
-基于Jekyll的博客主题模板，简洁轻量。
+基于Jekyll的博客主题模板，简洁轻量。来源于廖柯宇博主（在此表达感谢）
 
 另外，还有此主题的[Ghost版本](https://github.com/eastpiger/ghost-theme-H2O) by [eastpiger](https://github.com/eastpiger)
 
 ### Preview
 
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
+#### [在线预览 Live Demo →](http://desertcoldrain.github.io/)
 
 ![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
 ![](screenshot/jekyll-theme-h2o-realm.png)
 
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
-
-If you like this theme or using it, please give a ⭐️ for motivation ;)
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](screenshot/1494404591.png)
-
-Using your smartphone to scan the QR Code
 
 ### Features 特性
 
@@ -156,7 +147,7 @@ subtitle: '或许是最漂亮的Jekyll主题'
 date: 2017-04-18
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: java 后端开发
 ---
 ```
 
